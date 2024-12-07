@@ -6,3 +6,4 @@ run Rack::URLMap.new({
   '/content' => ContentController,
   '/top' => TopController
 })
+
